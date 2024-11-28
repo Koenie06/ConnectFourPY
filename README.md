@@ -1,6 +1,6 @@
-# HangmanPY
+# ConnectFourPY
 
-Welcome to HangmanPY, a classic Hangman game implemented in Python!
+Welcome to ConnectFourPY, a classic Connect Four game implemented in Python!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,22 +11,21 @@ Welcome to HangmanPY, a classic Hangman game implemented in Python!
 - [License](#license)
 
 ## Introduction
-HangmanPY is a simple and fun game where you guess the letters of a hidden word. This project is perfect for beginners to practice their Python skills. There are 2 options,
-Option 1: The hangman_enter_word.py, you can enter your own word for the hangman.
-Option 2: The hangman_random_word.py where you get a random word from a API.
+ConnectFourPY is a simple and fun game where you can play a simple Connect Four game. This project is perfect for beginners to practice their Python skills. There are 2 options,
+Option 1: The ConnectFour_local.py, where you can play against a local player.
+Option 2: The ConnectFour_computer.py, where you can play against a computer.
 
 ## Features
 - Simple and intuitive GUI
-- Random word selection from a API
-- Enter a word option for the creative ones
-- Hangman imgs/pngs for visual representation of the hangman
+- Advanced computer player
+- Play against your friends on your device
 
 ## Installation
-To get started with HangmanPY, clone the repository and install the required dependencies.
+To get started with ConnectFourPY, clone the repository and install the required dependencies.
 
 ```bash
 git clone https://github.com/Koenie06/ConnectFourPY.git
-cd HangmanPY
+cd ConnectFourPY
 pip install -r requirements.txt
 ```
 
@@ -58,4 +57,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Enjoy playing HangmanPY!
+Enjoy playing ConnectFourPY!
