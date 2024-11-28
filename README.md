@@ -11,8 +11,8 @@ Welcome to ConnectFourPY, a classic Connect Four game implemented in Python!
 - [License](#license)
 
 ## Introduction
-ConnectFourPY is a simple and fun game where you can play a simple Connect Four game. This project is perfect for beginners to practice their Python skills. There are 2 options,
-Option 1: The ConnectFour_local.py, where you can play against a local player.
+ConnectFourPY is a simple and fun game where you can play a simple Connect Four game. This project is perfect for beginners to practice their Python skills. There are 2 options.. <br />
+Option 1: The ConnectFour_local.py, where you can play against a local player. <br />
 Option 2: The ConnectFour_computer.py, where you can play against a computer.
 
 ## Features
